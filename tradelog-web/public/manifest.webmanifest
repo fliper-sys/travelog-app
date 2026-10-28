@@ -1,0 +1,13 @@
+{
+  "name": "TRADELOG",
+  "short_name": "TRADELOG",
+  "description": "Forex trading journal that works offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#061321",
+  "theme_color": "#061321",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
